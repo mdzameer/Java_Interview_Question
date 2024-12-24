@@ -1,0 +1,16 @@
+Java interview Questions
+
+1.How to develop api in springboot?
+2.How we are handling global exception in our application? - exception class with adviceExceptions
+3.In sql how we can delete particular coloum?
+4.What is the default method in java8?
+5.What is checked and unchecked exception and Does Null Pointer exception is checked or unchecked exception?
+6.How do you hanle SQL Exception while running the code?
+7.Do you wrote test cases. What is the use of mockito?
+8.What is transactional operation? what is the need of it?
+9.What is comparable and comparator? which one we use in which scenario?
+10.Where we use ENUMS and what are they?
+11.What is parallel stream?
+12.What are the intermediate methods while using streams. Name a few?
+13.Why do we store cookies?
+14.

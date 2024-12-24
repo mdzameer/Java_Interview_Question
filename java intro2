@@ -1,0 +1,54 @@
+Hi GoodMorning
+
+This is Zameer, I Stay in hyderabad
+I Completed my b.Tech from GRIET
+
+Coming to my work experience
+I have total 3.3 years of relevant experience as a java developer.
+
+Coming to my roles and responsibilities
+
+utlized spring boot features to rapidly develop and deploye the application
+
+implement the controllers to handle the incoming the httprequest and route them to appropriate business logic
+
+Implemented the getmapping,post, put,deletemapping within the controllers
+
+Utilize the git version control system for managing source code, branching, merging and collaboration with other developers
+
+Written unit test cases using junit framework to validate individual components and functionality of java code.
+
+Ensured the code coverage of 90%+ by writing the junit test cases.
+
+Implemented the test cases for Controller methods, Service layer methods and dao objects.
+
+Interacted with Oracle database using JPA for data persistence and data retrieval
+
+Used java8 features such as lamda expression, streams and functional interface to write concised code and more readability
+
+Used debug functionality in IDE's like Eclipse to identify and resolve issues, exceptions and runtime errors.
+
+used logging framework like slf4j for writing the logs. So that we can easily debug and trace the error.
+
+Utlized the code coverage tools like Jacoco to measuring code coverage and identify the areas for improvement.
+
+
+Spring boot
+spring mvc
+restAPI
+controllers
+git
+junit
+oracle database
+java8 features
+code debugging
+above 90% code coverage
+native queries
+jpa
+
+
+
+
+Agile
+CI/CD
+Jira

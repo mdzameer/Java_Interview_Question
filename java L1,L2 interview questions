@@ -1,0 +1,191 @@
+
+ Accenture Virtual Round -1
+	
+	
+	what are buckets in map
+	how we create custom queries
+
+	what is the use of native query =true. what happen if we pass false
+	program to determine wheather a number can be converted as 2 power x or not
+	what are actuators in java
+	what are views
+	what is autowired annotation used
+	what is the difference between string, string buffer and string builder
+	what is compile time and run time polymorphism
+	
+	
+	
+	do you worked on microservices
+	do you worked on design patterns
+	do you worked on hibernate
+	
+	
+Telephonic Round Questions: 
+	
+	Explain about the project
+	
+	What is the JPA
+	
+	What is the singleton class
+	
+	What is lazy loading and eager loading in java
+	
+	what is the annotation @Autowire, @qualifier
+	
+	what is the use of @component and @configuration
+	
+	explain about concurrent modification exception.
+	
+	explain the difference between Primary key and Unique key
+	
+Accenture Virtual round -2:
+
+	What is Functional interface
+	
+	How lamba expression is used for interface
+	
+	What are the method used in strream function
+	
+	What is optional class
+	
+	What is the internal working of multiValue map, map.
+	
+	What is the difference between the map and hashmap, linkedhashmap
+	
+	How to configure bean in spring mvc
+	
+	can we create spring boot application without using @springbootapplication annotation
+	
+	Explain spring bean life cycle
+	
+	
+Accenture Virtual interview L-1: project 2
+
+	Accenture Question: L1:
+	
+	Write the Singleton Desing program?. explain in detail why is was written so and what happen if not written so.
+	
+	can we add the class as final in singleton design. why we use private constructor, public and static factory method.
+	
+	explain about the try catch mechanism for below code. 
+	
+						try{
+			System.out.println("Try");
+			int i=100/0;
+			return 1;
+		}
+		catch(RuntimeException e){
+			System.out.println("Catch");
+			return 2;
+		}
+		finally {
+			System.out.println("finally");
+			return 3;
+		}
+		
+		
+	Using method overloading and overriding example with different scenarios. like same method signature and same name in same class and so on.
+	
+	
+	
+	What is the difference between Primary Key and Unique Key
+	
+	What if we replace @Controller annotation with @Component?, similarly Replacing @Repository, @Service with @Component?
+	
+	consider table A has 20 rows and table B has 30 rows . select * from A,B  sql query what is the output of this.  
+	
+	
+	
+Capgemini Hyderabad Location :
+	 
+Written Test questions:
+		
+		
+	Sql select queries and update query.
+	
+	what are the messages for status codes 100,101,102,200,201,202,300,301,302,400,401,402.
+	
+	
+	
+Capgemini F2F L-1: Questions
+	
+	
+	How many ways we can create the thread and how we can run the thread
+	
+	What is the difference between spring and spring boot
+	
+	What is @autowired annotation used in spring boot.
+	
+	how to compare the elements in two different list.
+	
+	explain about the try catch mechanism in java
+	
+	how to configure the database in spring boot
+	
+	what is fault tolerance in microservices
+	
+	what is circuit breakers
+	
+	explain about the microservices
+	
+	explain about the spring boot architecture
+	
+	How internally hashmap will store the data.
+	
+	What is the difference between list and set.
+	
+	what are the java8 features.
+	
+	
+	what is streams
+	
+	What is marker interface
+	
+	Explain about the singleton design pattern and how we construct it.
+	
+	
+	
+	
+Capgemini F2F L-2: Questions
+	
+	What is half-open, open and close state in circuit breakers
+	
+	how to call one service from other service.
+	
+	explain about the resttemplate and feign client. what are the differences between them. Is this a asynchronous or synchronous process
+	
+	write a program to find the 3 largest element in the list using streams.
+	
+	
+Capgemini chennai location L-1 questions:
+	
+	What is spring actuators
+	
+	what is dynamic binding
+	
+	explain about the aggregation and composition in java
+	
+	Write a program to find the count of the repeated letters in the given string
+	
+	what are the annotations used on spring boot and explain
+	
+	what is set interface
+	
+	how many microservices you have used in your project.
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+Need to work on below questions:
+
+	What is the difference between comparator and comparable?
+	
+	What is the difference between collection, Collection and Collections in java?
+	
+	\

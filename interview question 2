@@ -1,0 +1,237 @@
+Java Topics:
+
+Core Java:
+	Basic Syntax:
+		Data type
+		variable
+		constants
+	
+	Control Statements
+	Object-Oriented Programming (OOP):
+	Exception Handling:
+	File Handling:
+	Collections Framework:
+	Multithreading:
+	Unit Testing:
+	Introduction to Maven
+	Basic Design Patterns:
+	
+
+
+Advance Java
+
+	Java Database Connectivity (JDBC):
+	Java Servlets
+	JavaServer Pages (JSP)
+	Model-View-Controller (MVC) Architecture
+	Session Management
+	JavaServer Faces (JSF)
+	Spring Framework
+	Hibernate
+	RESTful Web Services
+	Design Patterns in Java
+	Introduction to Microservices
+	
+Coding questions:
+
+	string - repeated words, repeated character and number of ocuurense, unique words,
+	java8 - filter, grouping by , to map, flat map
+	Write a program to identify given number can be written as 2 power of x.
+	Write a program to validate the pair of brackets are properly closed or not.
+	Write a program to group the  given anagrams.
+	function - predicate, bifuction, etc.., creating custom functional interface,
+	can we provide implementation to lamda function by using abstact class methods.
+	
+	
+	
+	interveiw question.
+	
+	swagger uses and configuration in spring boot.
+	
+	Open API
+	
+	springboot project creation
+	
+	jdbc template using and configuring along with row mapper.
+	
+	onetomany annotation and fetch command.
+	
+	uses of @spy in junit.
+	
+	fail fast and fail safe - (concurrent mechanism)
+	
+	
+	
+	
+	
+4+ years interview questions:
+	
+		introduction
+
+	which java version
+
+	java 8 features:
+
+	what is the use of functional interface
+	if we have one abstract method in abstract class
+
+	what is the use of stream api
+
+	difference between stream and parallel stream
+
+	what is the use of optional class
+
+	How to check if the object properties are null or not?
+
+	why i have to use optional class we can use other == also.
+
+	what is executor service.
+
+	have you worked on multi-threading.
+
+	multiple inheritence having diamond problem - using default method. which default method it will call if we have same default method in different implement
+
+	what is the use of spring cloud - how to read the properties
+
+	what is spring cloud gateway
+
+	how one microservie will communicate with other microservice. by which methods
+
+	how transaction a is manage to miroservice.
+
+			Interview Question: L1 round.
+		
+	Explain your project and what is the purpose of the project
+
+	What is your day to day responsibilities and task
+
+	Explain java8 features
+
+	default method in interface
+
+	Intermediate and terminal operations in java8
+
+	How to design the api to store the viewers count using controller
+
+	What is the singleton design pattern and how you have implemented
+
+	How to create the custom comparator
+
+	what is the signature of filter method
+
+	write a program to count the repeatation of characters in the given strings using streams.
+
+	What is the difference between spring and spring boot. uses of spring boot
+
+	Complete steps to connect with the database using spring data jpa
+
+	what is cyclic dependency
+
+	what is dependency injection. setter injection is preferred or not
+
+	what are the steps you need to follow to make a class immutable. Primarily what need to elimited in class to make immutable.
+
+L2 interview questions:
+
+	What are the changes in Date time api in java8 features
+
+	Take a list remove the duplicates and sort in the reversing order
+
+	Take a list and find the highest element
+
+	Sorting the list by a parameter and then sort it by different parameter.
+
+	Spring actuators and spring profile and log4j - info,debug(int values) and the levels 
+
+	what is Transaction management and how we can implement in the code. how to roll back when transaction is failed
+
+	Do you know Junits. what is the difference between Junit4 and Junit5. and difference between Integration test and unit test. what is mockito and power mockito. what is spy. what the use of creating spy. how to mock the private methods. what is @inject mocks
+
+	What are the assertions. what do you know about the assert that.
+
+	what is the process to create the rest end point. what are the mandatory annotation. what is the purpose of rest endpoint.
+
+	what the response code do you know. what the that and when we use it.
+
+	can i implement the get functionality by creating delete api/annotation?
+
+	what are one to one mappings and many to many mappings.
+
+	what you doing environment management for calling the different services. 
+ 
+	what is the fault tolerance. do you know about the api gateway.
+
+	if we want to create in-house pure object oriented programming language. what are the step you need to follow.
+
+	Tell me about the agile flow. what is the process. from spring planning, daily stand-up, scrum,kan-ban, what you are using JIRA,git 
+
+	what is the use of spring dev tools
+
+
+
+	@transacional
+
+	if there is a problem in other inventory service. for getting
+
+	injecting properties with the bean. 
+	reading entire property file.
+
+	what is the property class.
+
+	what is the diff bwt jdbc and JPA
+
+	what are the memories present in JVM. what is heap and stack memory.
+
+
+Practising concepts:
+	
+	
+	Rate Limiting
+	
+	Circuit break
+	
+	OpenAPI
+	
+	Storage
+	
+	
+	Today's Tasks:
+	
+	Microservices architecture
+	
+	Feign client
+	
+	caching - by using radis cache
+	
+	Docker and kubernetes
+	
+	
+	
+	Difference between spring and spring boot
+	
+	What are the terminal and intermediate operations in java8
+	
+	How to achieve multi thread. Different ways
+	
+	OOPS
+	
+	using  lamda expression to assign to functional interface
+	
+	Difference between Heap memory and stack memory.
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
