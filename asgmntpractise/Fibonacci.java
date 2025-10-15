@@ -10,6 +10,7 @@ public class Fibonacci {
             int third = first+second;
             first=second;
             second=third;
+            //added the comments
 
         }
     }
