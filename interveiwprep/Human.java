@@ -1,4 +1,4 @@
-package asgmntpractise;
+package interveiwprep;
 
 sealed class Human permits Manish, Vartika, Anjali
 {

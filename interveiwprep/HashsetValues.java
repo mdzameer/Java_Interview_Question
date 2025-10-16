@@ -1,4 +1,4 @@
-package asgmntpractise;
+package interveiwprep;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
@@ -6,6 +6,8 @@ import java.util.LinkedHashSet;
 public class HashsetValues {
 
     public static void main(String[] args) {
+
+        //WAP to print the has
         HashSet<String> names = new HashSet<>();
 
         names.add("zameer");

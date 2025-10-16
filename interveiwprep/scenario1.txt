@@ -1,0 +1,96 @@
+
+1. what are the new features introduced in java 17.
+Ref: https://www.geeksforgeeks.org/java/sealed-class-in-java/, https://dzone.com/articles/jdk-17-switch-case-performance
+
+Ans. Sealed classes:
+    sealed classes will restrict which classes can extend or inherit.
+    methods of sealed classes should should be final, sealed or non-selead.
+
+    Steps to Create a Sealed Class
+    Define the class that you want to make a seal.
+    Add the "sealed" keyword to the class and specify which classes are permitted to inherit it by using the "permits" keyword.
+    Example
+    sealed class Human permits Manish, Vartika, Anjali
+    {
+       public void printName()
+       {
+           System.out.println("Default");
+       }
+    }
+    non-sealed class Manish extends Human
+    {
+       public void printName()
+       {
+           System.out.println("Manish Sharma");
+       }
+    }
+    sealed class Vartika extends Human
+    {
+       public void printName()
+       {
+           System.out.println("Vartika Dadheech");
+       }
+    }
+    final class Anjali extends Human
+    {
+       public void printName()
+       {
+           System.out.println("Anjali Sharma");
+       }
+    }
+
+
+
+
+    swith pattern matching:
+    1. Pattern Matching for switch:
+    This allows the switch statement to handle different object types, not just primitive types and enums. You can define cases based on the type of the input object.
+    It eliminates the need for explicit instanceof checks and casting within the switch block, making the code more concise and readable.
+    Java
+
+        static void process(Object obj) {
+            switch (obj) {
+                case Integer i -> System.out.println("It's an Integer: " + i);
+                case String s -> System.out.println("It's a String: " + s);
+                case null -> System.out.println("It's null"); // Handling null explicitly
+                default -> System.out.println("Unknown type");
+            }
+        }
+    2. switch Expressions:
+    switch can now be used as an expression, allowing you to directly assign its result to a variable.
+    It uses the arrow syntax (->) for cases, which implicitly handles break and prevents fall-through, leading to cleaner code.
+    The yield keyword can be used within a switch expression to return a value from a case.
+    Java
+
+        String dayType = switch (day) {
+            case MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY -> "Weekday";
+            case SATURDAY, SUNDAY -> "Weekend";
+            default -> "Unknown";
+        };
+
+=====================================
+
+
+
+how do you increase the performance of the batabase:
+
+    1. Use Asynchronous Calls
+    2. Optimize Database Queries
+    3. Connection Pooling
+
+created table Students(
+    rollnum int primary key,
+    name varchar(100),
+    marks int
+);
+
+select rollnum, sum(marks) as total_marks
+from students
+groupby rollnum;
+
+//find second highest marks
+
+select marks
+from students
+order by desc
+limit 1 offset 1;

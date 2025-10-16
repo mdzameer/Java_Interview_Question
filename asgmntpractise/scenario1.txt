@@ -1,7 +1,0 @@
-
-how do you increase the performance of the batabase:
-
-    1. Use Asynchronous Calls
-    2. Optimize Database Queries
-    3. Connection Pooling
-

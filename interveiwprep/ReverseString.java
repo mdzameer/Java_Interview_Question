@@ -1,4 +1,4 @@
-package asgmntpractise;
+package interveiwprep;
 
 public class ReverseString {
     public static void main(String[] args) {
